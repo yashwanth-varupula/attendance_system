@@ -1,0 +1,62 @@
+2025-09-21T12:12:04.753Z INFO SharedStateManager initialized
+2025-09-21T12:12:04.754Z INFO [Migration] Checking for database migration...
+2025-09-21T12:12:04.967Z INFO [Migration] No migration needed
+2025-09-21T12:12:04.968Z INFO [MainProvider] Creating new MainProvider instance...
+2025-09-21T12:12:04.973Z INFO [c:\Users\yashw\.vscode\extensions\pythagoratechnologies.pythagora-vs-code-2.5.4] Project root:
+2025-09-21T12:12:04.974Z INFO [c:\Users\yashw\.vscode\extensions\pythagoratechnologies.pythagora-vs-code-2.5.4\prisma\schema.prisma] Schema path:
+2025-09-21T12:12:04.974Z INFO [file:/pythagora/pythagora-core/data/database/pythagora.db] Database URL:
+2025-09-21T12:12:04.975Z INFO [true] Schema exists:
+2025-09-21T12:12:04.977Z INFO Running prisma generate first...
+2025-09-21T12:12:08.238Z INFO [Prisma schema loaded from prisma\schema.prisma
+
+✔ Generated Prisma Client (6.16.2) to .\src\generated\prisma in 248ms
+
+] Prisma generate result:
+2025-09-21T12:12:08.238Z INFO Running prisma db push to sync schema...
+2025-09-21T12:12:12.761Z INFO [Prisma schema loaded from prisma\schema.prisma
+Datasource "db": SQLite database "pythagora.db" at "file:/pythagora/pythagora-core/data/database/pythagora.db"
+
+The database is already in sync with the Prisma schema.
+
+Running generate... (Use --skip-generate to skip the generators)
+[2K[1A[2K[GRunning generate... - Prisma Client
+[2K[1A[2K[G✔ Generated Prisma Client (6.16.2) to .\src\generated\prisma in 328ms
+
+] Prisma db push result:
+2025-09-21T12:12:12.762Z INFO Is remote: false
+2025-09-21T12:12:12.764Z INFO Starting Local. Installation path: undefined
+2025-09-21T12:12:59.787Z INFO [[object Object]] MainProvider handleMessage
+2025-09-21T12:13:01.454Z INFO [[object Object]] MainProvider handleMessage
+2025-09-21T12:13:01.455Z INFO [[object Object]] Center panel message:
+2025-09-21T12:13:01.457Z INFO [[object Object]] MainProvider handleMessage
+2025-09-21T12:13:01.457Z INFO [[object Object]] Center panel message:
+2025-09-21T12:13:01.458Z INFO [MainProvider] Center panel ready - processing ready handler
+2025-09-21T12:13:01.458Z INFO [MainProvider] Center panel ready - flushing 0 buffered messages
+2025-09-21T12:13:01.459Z INFO [Message Router] Routing getProjectInfo through unified router
+2025-10-02T06:42:39.962Z INFO SharedStateManager initialized
+2025-10-02T06:42:39.963Z INFO [Migration] Checking for database migration...
+2025-10-02T06:42:40.279Z INFO [Migration] No migration needed
+2025-10-02T06:42:40.280Z INFO [MainProvider] Creating new MainProvider instance...
+2025-10-02T06:42:40.286Z INFO [c:\Users\yashw\.vscode\extensions\pythagoratechnologies.pythagora-vs-code-2.5.4] Project root:
+2025-10-02T06:42:40.287Z INFO [c:\Users\yashw\.vscode\extensions\pythagoratechnologies.pythagora-vs-code-2.5.4\prisma\schema.prisma] Schema path:
+2025-10-02T06:42:40.287Z INFO [file:/pythagora/pythagora-core/data/database/pythagora.db] Database URL:
+2025-10-02T06:42:40.287Z INFO [true] Schema exists:
+2025-10-02T06:42:40.288Z INFO Running prisma generate first...
+2025-10-02T06:42:43.694Z INFO [Prisma schema loaded from prisma\schema.prisma
+
+✔ Generated Prisma Client (6.16.2) to .\src\generated\prisma in 272ms
+
+] Prisma generate result:
+2025-10-02T06:42:44.127Z INFO Running prisma db push to sync schema...
+2025-10-02T06:42:49.679Z INFO [Prisma schema loaded from prisma\schema.prisma
+Datasource "db": SQLite database "pythagora.db" at "file:/pythagora/pythagora-core/data/database/pythagora.db"
+
+The database is already in sync with the Prisma schema.
+
+Running generate... (Use --skip-generate to skip the generators)
+[2K[1A[2K[GRunning generate... - Prisma Client
+[2K[1A[2K[G✔ Generated Prisma Client (6.16.2) to .\src\generated\prisma in 255ms
+
+] Prisma db push result:
+2025-10-02T06:42:49.686Z INFO Is remote: false
+2025-10-02T06:42:49.688Z INFO Starting Local. Installation path: undefined
